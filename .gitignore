@@ -1,0 +1,18 @@
+.gradle/
+.idea/
+local.properties
+**/build/
+*.iml
+.DS_Store
+
+# Local SDK state and generated packages
+.kotlin/
+.cxx/
+captures/
+*.apk
+*.aab
+
+# Local signing credentials
+keystore.properties
+*.keystore
+*.jks

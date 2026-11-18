@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Déjà View</string>
+    <string name="camera_framing_title">Déjà View camera framing</string>
+    <string name="camera_framing_description">Reads camera layout and mode labels when Auto is on. Camera layout data stays on your device and is never saved.</string>
+    <string name="tagline">Feels like you’ve seen this shot before.</string>
+    <style name="AppTheme" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColorPrimary">@color/cloud</item>
+        <item name="android:colorAccent">@color/lilac</item>
+        <item name="android:windowBackground">@color/ink</item>
+        <item name="android:statusBarColor">@color/ink</item>
+        <item name="android:navigationBarColor">@color/ink</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="ActivationTheme" parent="AppTheme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
