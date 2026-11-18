@@ -2,9 +2,13 @@
 
 **Line up your next photo with a reference.** Déjà View is an Android camera overlay for matching a previous angle, repeating a composition, or keeping before-and-after shots consistent. The floating bubble keeps the reference controls within reach while you use your camera app.
 
+**[Download the latest APK](https://github.com/Lost-Document/deja-view/releases/latest/download/deja-view.apk)** · Android 11+ · [Release notes](https://github.com/Lost-Document/deja-view/releases/latest)
+
 ![Déjà View Android camera overlay on a Pixel emulator showing a blank black viewfinder, lilac frame markers, and the camera shutter.](docs/images/deja-view-android-camera-overlay.png)
 
 ## Get started
+
+Open the downloaded APK on your Android device. If Android asks, enable **Allow from this source** for the app opening the APK, then tap **Install**. [Android installation help](https://support.google.com/pixelphone/answer/7391672)
 
 1. Open Déjà View and allow **Display over other apps**.
 2. Enable **Follow camera** during setup, or tap **Not now** to start with photo-based framing.
